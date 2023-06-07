@@ -1,5 +1,5 @@
 # PrintBits
-[<img src="https://img.shields.io/github/workflow/status/oliverbooth/PrintBits/.NET">](https://github.com/oliverbooth/PrintBits/actions?query=workflow%3A%22.NET%22)
+[<img src="https://img.shields.io/github/actions/workflow/status/oliverbooth/PrintBits/dotnet.yml">](https://github.com/oliverbooth/PrintBits/actions/workflows/dotnet.yml)
 [<img src="https://img.shields.io/github/downloads/oliverbooth/PrintBits/total">](https://github.com/oliverbooth/PrintBits/releases)
 
 PrintBits is a command-line utility for printing the bits of an integer
